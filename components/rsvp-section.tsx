@@ -39,7 +39,7 @@ export default function RSVPSection() {
       };
 
       const response = await fetch(
-        "https://hook.us2.make.com/b9dperbya95cknjbq9q7q3u4nlmbnfew",
+        "",
         {
           method: "POST",
           headers: {
